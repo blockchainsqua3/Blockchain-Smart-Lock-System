@@ -1,6 +1,6 @@
 "# Blockchain-Smart-Lock-System" 
 
-    ######Our project aims to develop an "Smart Lock System" based on blockchain with smart contract functionality.   
+    Our project aims to develop an "Smart Lock System" based on blockchain with smart contract functionality.   
     The decentralized and tamper-resistant nature of blockchain will bring about a more transparent housing   
     information system. Each door lock device and its corresponding customer during the occupancy period will  
     have their respective Ethereum addresses. When the door is unlocked, it will trigger a transaction, which  
